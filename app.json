@@ -1,0 +1,12 @@
+{
+  "name": "manga-reader",
+  "displayName": "manga-reader",
+  "expo": {
+    "name": "manga-reader",
+    "slug": "manga-reader",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
